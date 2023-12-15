@@ -1,0 +1,174 @@
+.html {
+  font-family: "Montserrat", sans-serif;
+  font-family: "Raleway", sans-serif;
+  font-family: "Roboto", sans-serif;
+
+}
+
+.body{
+  background: #FFF;
+  font-family: "Roboto", sans-serif;
+  color: #434455;
+
+}
+.main-logo{
+  color:  #4D5AE5;
+ font-family: "Raleway", sans-serif;
+font-size: 18px;
+line-height: 1.17;
+letter-spacing: 0.03em; 
+text-transform: uppercase;
+font-weight: 700;
+
+}
+
+.span-logo{
+  color:  #2E2F42;
+
+}
+
+.nav-text{
+color: #2E2F42;
+font-weight: 500;
+line-height: 1.5;
+letter-spacing: 0.02em;
+
+}
+
+.nav-text:hover
+.nav-text:focus{
+  color: #404bbf;
+}
+
+.nav-address{
+color: #434455;
+line-height: 1.5;
+letter-spacing: 0.02em;
+font-style: normal;
+color: #434455;
+}
+.nav-address:hover
+.nav-address:focus{
+  color: #404bbf;
+}
+.dark-bg {
+background:  #2E2F42;
+}
+
+.darc-bg-txt {
+color:  #FFF;
+text-align: center;
+font-size: 56px;
+line-height:1.07;
+letter-spacing: 0.02em; 
+}
+
+.button {
+display: inline-flex;
+align-items: flex-start;
+background: #4d5ae5;
+color: #fff;
+cursor: pointer;
+line-height: 1.5;
+font-weight: 500;
+font-family: "Raleway", sans-serif;
+letter-spacing: 0.04em;
+font-family: "Roboto", sans-serif;
+
+}
+button:hover
+button:focus{
+   color: #404bbf;
+}
+
+.our-capabilities{
+  background: #FFF;
+}
+
+.our-capabilities-header
+{
+color:  #2E2F42;
+font-size: 20px;
+font-weight: 500;
+line-height:  1.2;
+font-family: "Roboto", sans-serif;
+letter-spacing: 0.02em;
+
+}
+.our-capabilities-txt{
+  color:  #434455;
+font-style: normal;
+line-height: 1.5;
+letter-spacing: 0.02em;
+font-size: 16px;
+}
+.light-bg {
+
+  background-color: #f4f4fd;
+
+}
+
+
+.team{
+color: #2E2F42;
+text-align: center;
+font-style: normal;
+line-height: 1.1;
+font-size: 36px;
+letter-spacing: 0.02em;
+text-align: center;
+text-transform: capitalize;
+
+}
+.team-foto{
+  background-color: #FFFFFF
+}
+.team-header{
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.team-text{
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+
+}
+.portfolio{
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color:  #2e2f42;
+}
+.apps{
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color:  #2e2f42;
+}
+.apps-text{
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
+.footer {
+  background: #2e2f42;
+}
+.footer-text {
+  color:  #F4F4FD;
+font-style: normal;
+line-height: 1.5;
+letter-spacing: 0.02em;
+}
+.footer-logo{
+  color:  #F4F4FD;
+  font-weight: 700;
+  line-height: 1.17;
+}
