@@ -27,6 +27,7 @@ font-weight: 700;
 
 }
 
+
 .nav-text{
 color: #2E2F42;
 font-weight: 500;
@@ -50,10 +51,7 @@ letter-spacing: 0.02em;
 font-style: normal;
 color: #434455;
 }
-.nav-address:hover,
-.nav-address:focus{
-  color: #404bbf;
-}
+
 .contact-text{
   color: #434455;
 
@@ -89,7 +87,7 @@ font-family: "Roboto", sans-serif;
 }
 .button:hover,
 .button:focus{
-   color: #404BBF;
+  background-color: #404BBF;
 }
 
 .our-capabilities{
